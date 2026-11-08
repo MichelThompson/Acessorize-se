@@ -1,15 +1,10 @@
-# Acessorize-se — V10 fontes completas
+# Acessorize-se — V15 símbolo da marca
 
-O pacote inclui as três fontes da identidade visual:
-- Bebas Neue: títulos.
-- Figtree: subtítulos, navegação, descrições e informações.
-- Moontime: frases decorativas (incorporada ao HTML).
+O símbolo ilustrado (somente a mulher com brincos, sem o texto abaixo) foi aplicado em três pontos:
+- Cabeçalho: substitui o ícone decorativo ao lado do nome.
+- Seção Sobre a Marca: assinatura visual junto à frase-manifesto.
+- Rodapé: pequena assinatura da marca.
 
-## Estrutura necessária
-Mantenha a pasta `fonts` junto do `index.html`:
-- `fonts/BebasNeue-Regular.ttf`
-- `fonts/Figtree-VariableFont_wght.ttf`
-- `fonts/Figtree-Italic-VariableFont_wght.ttf`
-
-## Publicar no GitHub Pages
-Envie o conteúdo desta pasta para a raiz do repositório, substituindo o `index.html` atual e mantendo a pasta `fonts`. Depois faça commit/push.
+## Publicação
+Envie `index.html`, `.nojekyll` e a pasta `assets` para a raiz do repositório.
+Não remova `assets/acessorize-se-mulher-simbolo.png`, pois o site usa esse arquivo localmente.
