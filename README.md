@@ -1,15 +1,15 @@
-# Acessorize-se — versão 6
+# Acessorize-se — V10 fontes completas
 
-Atualização do modal de login e correção de validação de acesso.
+O pacote inclui as três fontes da identidade visual:
+- Bebas Neue: títulos.
+- Figtree: subtítulos, navegação, descrições e informações.
+- Moontime: frases decorativas (incorporada ao HTML).
+
+## Estrutura necessária
+Mantenha a pasta `fonts` junto do `index.html`:
+- `fonts/BebasNeue-Regular.ttf`
+- `fonts/Figtree-VariableFont_wght.ttf`
+- `fonts/Figtree-Italic-VariableFont_wght.ttf`
 
 ## Publicar no GitHub Pages
-1. Extraia o ZIP.
-2. Substitua o `index.html` atual no repositório pelo arquivo desta pasta.
-3. Faça commit/push na branch `main`.
-4. Aguarde o GitHub Pages atualizar.
-
-## Acesso demonstrativo
-- Login: `teste`
-- Senha: `teste`
-
-O login é apenas demonstrativo e não oferece segurança real em um site estático. Para produção, implemente autenticação no backend.
+Envie o conteúdo desta pasta para a raiz do repositório, substituindo o `index.html` atual e mantendo a pasta `fonts`. Depois faça commit/push.
